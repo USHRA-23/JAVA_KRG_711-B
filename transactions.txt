@@ -1,0 +1,2 @@
+Deposited: 2000.0 | Account: ACC123
+Withdrew: 3000.0 | Account: ACC123
